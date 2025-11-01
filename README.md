@@ -76,8 +76,8 @@ Si su entorno no dispone de `make` en Windows, se puede usar WSL o herramientas 
 
 ### Integrantes
 
-David Gonzalez Villanueva - C13388
-Sebastian Bolaños Serrano - C11142
-Julián Gonzalez Betancur - B22877
+    David Gonzalez Villanueva - C13388
+    Sebastian Bolaños Serrano - C11142
+    Julián Gonzalez Betancur - B22877
 
 **Notas:** el proyecto puede necesitar `-lssl -lcrypto` para compilaciones que utilicen `SSLSocket`.
