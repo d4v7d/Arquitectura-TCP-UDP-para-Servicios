@@ -1,0 +1,17 @@
+Modelo de atención: Procesos (Fork())
+Modelo de datos para almacenar la lista de piezas: JSON Figuras y piezas (Ejemplo más abajo)
+Tipo de salida de datos para el cliente: HTML
+Modificaciones al cliente: De momento, no
+Protocolo de comunicación: HTTP
+
+
+
+Ejemplo de estructura de instancias para figuras y piezas
+figura:
+nombre
+lista pieza mitad1
+lista pieza mitad2
+
+pieza:
+tipo: pieza café 2x2
+cantidad: 4

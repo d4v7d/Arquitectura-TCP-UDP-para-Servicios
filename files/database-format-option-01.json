@@ -1,0 +1,18 @@
+{
+  "id": "camello",
+  "name": "Camello",
+  "total-pieces": 10,
+  "m1":
+  [
+    "id: 4118790, name: Plate 2x3, amount: 2",
+    "id: 4118790, name: Modified plate 2x4, amount: 1",
+    "id: 4118790, name: Animal head, amount: 1",
+    "id: 4118790, name: Flat tile, amount: 2"
+  ],
+  "m2": [
+    "id: 4118790, name: Modified plate 1x2, amount: 1",
+    "id: 4118790, name: Plate 1x2, amount: 1",
+    "id: 4118790, name: Plate 1x1, amount: 1",
+    "id: 6468457, name: Flat tile nose 1x1, amount: 1"
+  ]
+}
